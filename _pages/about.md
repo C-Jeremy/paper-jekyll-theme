@@ -1,22 +1,20 @@
 ---
-layout: content
+
+layout: page
 title: About
-permalink: /about/
+permalink: /about
+tags: navigation
+
 ---
-Hi, I'm Johnny and I live in the Shire. Thanks for visiting my site.
 
-I program and write about software development when I have the time. More information can be found through <a href="https://www.linkedin.com/" data-network="LinkedIn" data-proofer-ignore>LinkedIn.</a>
+Hi there!
 
-----
+Me in four words: runner, writer, drawer, physicist.
 
-## The Website
-This site was made on an [Apple MBP](https://www.apple.com/) powered by [Jekyll](https://jekyllrb.com) on [Github Pages](https://pages.github.com).
-I'd love to hear your feedback on this site and my work.
+This place is a collection of my writing on the above topics. I want to dive deep into ideas within physics and mathematics, as well as the parts that surround them. Above all, my goal is to share essays that capture the essence of what it means to be curious and search for understanding.
 
-----
+Have you ever *really* gotten something? If so, you know how sweet that feeling it is. To understand something at its essence is what I am searching for in my writing. I hope you will join me in this journey.
 
-## Etcetera
+If you want to follow the blog, the best way is by subscribing through [RSS]({{ site.baseurl }}/feed). I respect your time, so there aren't any advertisements or other distractions. There are only words (and an occasional illustration). This is a labour of love. My gift to you, the reader.
 
-- [Instagram](https://www.instagram.com/) for 📸
-- [Facebook](https://www.facebook.com/) for 🕺
-
+&#8211; Jeremy
