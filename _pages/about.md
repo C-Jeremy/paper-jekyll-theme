@@ -1,13 +1,9 @@
 ---
 
-layout: page
+layout: content
 title: About
 permalink: /about
-tags: navigation
-
 ---
-
-Hi there!
 
 Me in four words: runner, writer, drawer, physicist.
 
