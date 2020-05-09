@@ -2,6 +2,7 @@
 title: Resolution of Care
 author: Jeremy
 tags: [communication, craft, work, science]
+description: How much care do you put into your work?
 permalink: /resolution-of-care
 date: 2020-05-04
 ---

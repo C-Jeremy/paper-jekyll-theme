@@ -2,6 +2,7 @@
 title: You Are Not Your Work
 author: Jeremy
 tags: [research, work, life, science]
+description: On separating your self-worth from your work.
 permalink: /you-are-not-your-work
 date: 2020-04-20
 ---

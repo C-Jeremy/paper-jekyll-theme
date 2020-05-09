@@ -2,6 +2,7 @@
 title: Dreams and Reality
 author: Jeremy
 tags: [work, pursuits, life]
+description: That grass looks greener.
 permalink: /dreams-and-reality
 date: 2020-04-13
 ---

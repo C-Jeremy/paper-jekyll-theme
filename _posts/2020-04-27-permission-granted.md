@@ -2,6 +2,7 @@
 title: Permission Granted
 author: Jeremy
 tags: [work, education, leadership]
+description: On not waiting to be picked.
 permalink: /permission-granted
 date: 2020-04-27
 ---
